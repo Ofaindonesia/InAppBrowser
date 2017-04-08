@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share_white_24dp"
+        app:showAsAction="always"
+        android:title="@string/str_menu_share">
+    </item>
+    <item
+        android:id="@+id/menu_open_in_browser"
+        android:icon="@drawable/ic_open_in_browser_white_24dp"
+        app:showAsAction="always"
+        android:title="@string/str_menu_open_in_browser">
+    </item>
+</menu>

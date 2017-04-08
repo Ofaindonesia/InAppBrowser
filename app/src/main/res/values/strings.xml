@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InAppBrowser</string>
+    <string name="default_url">http://www.razibkani.info</string>
+    <string name="open_in_app_browser">Open In-App Browser</string>
+    <string name="str_menu_share">Share</string>
+    <string name="str_menu_open_in_browser">Open In Browser</string>
+</resources>
