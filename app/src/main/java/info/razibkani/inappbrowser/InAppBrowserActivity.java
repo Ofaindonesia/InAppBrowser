@@ -1,4 +1,4 @@
-package info.razibkani.inappbrowser;
+package ram.ofa.zz;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
